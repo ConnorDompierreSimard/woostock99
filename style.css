@@ -181,7 +181,7 @@ footer {
     transition:filter 1s;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 960px) {
     #menu:checked + .hamburger + .menuitems {
         display: flex;
     }
